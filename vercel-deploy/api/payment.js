@@ -14,8 +14,8 @@ export default async function handler(req, res) {
     try {
       // Cấu hình mặc định
       const DEFAULT_CONFIG = {
-        isdn: '84346784490',
-        token: '579fb011-f2e5-42e0-bcc3-9dedaf6d599e-d2ViXzg0MzQ2Nzg0NDkw',
+        isdn: '84866793764',
+        token: '3c4ac9ef-7566-4601-bfa7-b08649849c60-d2ViXzg0ODY2NzkzNzY0',
         lang: 'vi',
         pay_code: 'topup_web'
       };
